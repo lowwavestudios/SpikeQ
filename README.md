@@ -25,7 +25,7 @@ remove the unwanted resonances of the sustain.
 
 Made using the JUCE framework
 
-These plugins are free to use and I make them on my spare time. If you like them and are able to help by becoming a Patreon member, I would be very grateful.
-[Patreon](https://www.patreon.com/lowwavestudios)
+These plugins are free to use and I make them on my spare time. If you like them and are able to help by becoming a [Patreon](https://www.patreon.com/lowwavestudios) member, I would be very grateful.
+
 
 ![Screenshot](SpikeQ110.png)
