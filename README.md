@@ -2,12 +2,20 @@
 EQ / Transient Shaper
 
 SpikeQ is a frequency based transient shaper.
-As a distant cousin of Drum Snapper, it features the same attitude for increasing the Attack of a source, but expands it with the ability to enhance certain frequency areas on the attack portion of a sound.
+As a distant cousin of Drum Snapper, it features the same attitude for
+increasing the Attack of a source, but expands it with the ability to enhance
+certain frequency areas on the attack portion of a sound.
+Now with the ability to choose between adding more Attack or Sustain.
 Do you have a source that is too buried in a mix?
 Do you want to make certain frequencies pop?
-SpikeQ enables you to add huge boosts of eq but not making them too boomy and loose (in the low end) or too splashy (in the high end).
+SpikeQ enables you to add huge boosts of eq but not making them too
+boomy and loose (in the low end) or too splashy (in the high end).
+With the Sustain manipulation you can have huge Drum room sounds
+without splashy cymbals or add more body to an acoustic guitar and
+remove the unwanted resonances of the sustain.
 
 - It features 4 semi-parametric eq bands (low and high shelves and 2 peak bands);
+- Add attack or Sustain to be treated by the EQ;
 - 2x Amount to use on sources with low dynamic range or to have extreme effects;
 - A Clipper to avoid big spikes on the audio;
 - Oversampling for the clipper section, to avoid aliasing;
