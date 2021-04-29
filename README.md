@@ -27,5 +27,15 @@ Made using the JUCE framework
 
 These plugins are free to use and I make them on my spare time. If you like them and are able to help by becoming a [Patreon](https://www.patreon.com/lowwavestudios) member, I would be very grateful.
 
+Changelog v1.1.0:
+- Add Subtract mode to EQ bands;
+- Add Sustain mode (Add EQ'ed sustain to signal);
+- Increased Release time range;
+- Instant Attack time (more accurate);
+- Fix latency compensation when Clipper off and Oversample on;
+- Add save window size for each instance;
+- Changed Slider behaviour:
+	- Right double-click to return to default value;
+	- Ctrl + drag for fine adjustment;
 
 ![Screenshot](SpikeQ110.png)
